@@ -43,13 +43,12 @@ The AI model is still **under development and testing**. We are continuously ref
 - Train the model with larger datasets to improve accuracy.
 - Implement additional clustering methods for better segmentation.
 - Add support for multi-channel marketing strategies.
--
--
-- <img width="660" alt="Screenshot 2024-09-13 at 8 24 55 PM" src="https://github.com/user-attachments/assets/b0351f2f-52ca-41c6-8069-4bb2db914135">
-
-![image](https://github.com/user-attachments/assets/8c7f4738-d171-4667-b1e7-0aa1deccd23f)
-
 
 
 ## Contact
 For questions or collaboration, feel free to reach out via the GitHub issues tab.
+
+
+ <img width="660" alt="Screenshot 2024-09-13 at 8 24 55 PM" src="https://github.com/user-attachments/assets/b0351f2f-52ca-41c6-8069-4bb2db914135">
+
+![image](https://github.com/user-attachments/assets/8c7f4738-d171-4667-b1e7-0aa1deccd23f)
